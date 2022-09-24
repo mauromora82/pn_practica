@@ -1,0 +1,16 @@
+Filesystem     1K-blocks      Used Available Use% Mounted on
+/dev/sdc       263174212   3118104 246617952   2% /
+tools          499268604 264850632 234417972  54% /init
+none             1949916         0   1949916   0% /dev
+tmpfs            1951996         0   1951996   0% /sys/fs/cgroup
+none             1951996         4   1951992   1% /run
+none             1951996         0   1951996   0% /run/lock
+none             1951996         0   1951996   0% /run/shm
+none             1951996         0   1951996   0% /run/user
+drivers        499268604 264850632 234417972  54% /usr/lib/wsl/drivers
+lib            499268604 264850632 234417972  54% /usr/lib/wsl/lib
+none             1951996         4   1951992   1% /mnt/wsl
+none             1951996        28   1951968   1% /mnt/wslg
+none             1951996        76   1951920   1% /mnt/wslg/versions.txt
+none             1951996        76   1951920   1% /mnt/wslg/doc
+drvfsa         499268604 264850632 234417972  54% /mnt/c
